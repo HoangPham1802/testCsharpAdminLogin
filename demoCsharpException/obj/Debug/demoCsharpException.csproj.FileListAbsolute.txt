@@ -1,0 +1,7 @@
+C:\Users\hoang\Documents\Visual Studio 2017\Projects\demoCsharpException\demoCsharpException\obj\Debug\demoCsharpException.csprojResolveAssemblyReference.cache
+C:\Users\hoang\Documents\Visual Studio 2017\Projects\demoCsharpException\demoCsharpException\bin\Debug\demoCsharpException.exe.config
+C:\Users\hoang\Documents\Visual Studio 2017\Projects\demoCsharpException\demoCsharpException\bin\Debug\demoCsharpException.exe
+C:\Users\hoang\Documents\Visual Studio 2017\Projects\demoCsharpException\demoCsharpException\bin\Debug\demoCsharpException.pdb
+C:\Users\hoang\Documents\Visual Studio 2017\Projects\demoCsharpException\demoCsharpException\bin\Debug\MySql.Data.dll
+C:\Users\hoang\Documents\Visual Studio 2017\Projects\demoCsharpException\demoCsharpException\obj\Debug\demoCsharpException.exe
+C:\Users\hoang\Documents\Visual Studio 2017\Projects\demoCsharpException\demoCsharpException\obj\Debug\demoCsharpException.pdb
